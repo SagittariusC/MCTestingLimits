@@ -1,15 +1,15 @@
 {
   "format_version": 2,
   "header": {
-    "description": "Fancy RTX textures",
-    "name": "Fancy RTX textures",
+    "description": "1024x1024 Minecraft RTX texture pack that aims to test the limits",
+    "name": "MCTestingLimits",
     "uuid": "d4ec4645-d988-4371-87b8-42c0d3569602",
     "version": [0, 0, 1],
     "min_engine_version": [1, 15, 0]
   },
   "modules": [
     {
-      "description": "Fancy RTX textures",
+      "description": "1024x1024 Minecraft RTX texture pack that aims to test the limits",
       "type": "resources",
       "uuid": "b950595c-02a4-48fc-bd3b-45e6c5682fdf",
       "version": [0, 0, 1]
