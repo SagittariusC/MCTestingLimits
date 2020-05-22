@@ -1,7 +1,7 @@
 {
   "format_version": 2,
   "header": {
-    "description": "512x512 Minecraft RTX texture pack that aims to test the limits, By SagiC",
+    "description": "1024x1024 Minecraft RTX texture pack that aims to test the limits",
     "name": "MCTestingLimits",
     "uuid": "d4ec4645-d988-4371-87b8-42c0d3569602",
     "version": [0, 0, 1],
@@ -9,7 +9,7 @@
   },
   "modules": [
     {
-      "description": "512x512 Minecraft RTX texture pack that aims to test the limits, By SagiC",
+      "description": "1024x1024 Minecraft RTX texture pack that aims to test the limits",
       "type": "resources",
       "uuid": "b950595c-02a4-48fc-bd3b-45e6c5682fdf",
       "version": [0, 0, 1]
