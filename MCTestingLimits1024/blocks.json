@@ -11,8 +11,8 @@
   },
   "grass": {
     "isotropic": {
-      "up": true,
-      "down": true
+      "up": false,
+      "down": false
     },
     "textures": {
       "up": "grass_top",
